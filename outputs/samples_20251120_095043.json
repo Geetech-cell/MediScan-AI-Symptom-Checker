@@ -1,0 +1,65 @@
+[
+  {
+    "request": {
+      "symptoms": [
+        "sneezing",
+        "runny_nose",
+        "sore_throat"
+      ],
+      "description": "Runny nose and sore throat"
+    },
+    "response": {
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183C4ABCD70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "fever",
+        "chills",
+        "muscle_ache"
+      ],
+      "description": "High fever and body aches"
+    },
+    "response": {
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183C4AC1090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "loss_of_taste_or_smell",
+        "cough"
+      ],
+      "description": "Sudden loss of smell and cough"
+    },
+    "response": {
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183C4AC1950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "flank_pain",
+        "nausea",
+        "vomiting"
+      ],
+      "description": "Severe flank pain with vomiting"
+    },
+    "response": {
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183C4AC5940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "chest_pain",
+        "shortness_of_breath"
+      ],
+      "description": "Chest pain and difficulty breathing"
+    },
+    "response": {
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000183C4AC6060>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Outputs and reports
+outputs/
+reports/
+
+# Git
+.git
+.gitignore
+
+# Large files (models should be mounted at runtime)
+*.pkl
+*.joblib

@@ -1,0 +1,225 @@
+[
+  {
+    "request": {
+      "symptoms": [
+        "sneezing",
+        "runny_nose",
+        "sore_throat"
+      ],
+      "description": "Runny nose and sore throat"
+    },
+    "response": {
+      "predictions": [
+        {
+          "disease": "56",
+          "probability": 0.49344897270202637
+        },
+        {
+          "disease": "13",
+          "probability": 0.1252688318490982
+        },
+        {
+          "disease": "31",
+          "probability": 0.09619411826133728
+        },
+        {
+          "disease": "37",
+          "probability": 0.05648111552000046
+        },
+        {
+          "disease": "53",
+          "probability": 0.027313243597745895
+        }
+      ],
+      "risk_assessment": {
+        "risk_level": "medium",
+        "confidence": 0.85,
+        "recommendation": "Consult a healthcare professional if symptoms persist",
+        "suggested_actions": [
+          "Get plenty of rest",
+          "Stay hydrated",
+          "Monitor your symptoms"
+        ]
+      },
+      "status": "success"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "fever",
+        "chills",
+        "muscle_ache"
+      ],
+      "description": "High fever and body aches"
+    },
+    "response": {
+      "predictions": [
+        {
+          "disease": "56",
+          "probability": 0.49344897270202637
+        },
+        {
+          "disease": "13",
+          "probability": 0.1252688318490982
+        },
+        {
+          "disease": "31",
+          "probability": 0.09619411826133728
+        },
+        {
+          "disease": "37",
+          "probability": 0.05648111552000046
+        },
+        {
+          "disease": "53",
+          "probability": 0.027313243597745895
+        }
+      ],
+      "risk_assessment": {
+        "risk_level": "medium",
+        "confidence": 0.85,
+        "recommendation": "Consult a healthcare professional if symptoms persist",
+        "suggested_actions": [
+          "Get plenty of rest",
+          "Stay hydrated",
+          "Monitor your symptoms"
+        ]
+      },
+      "status": "success"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "loss_of_taste_or_smell",
+        "cough"
+      ],
+      "description": "Sudden loss of smell and cough"
+    },
+    "response": {
+      "predictions": [
+        {
+          "disease": "56",
+          "probability": 0.49344897270202637
+        },
+        {
+          "disease": "13",
+          "probability": 0.1252688318490982
+        },
+        {
+          "disease": "31",
+          "probability": 0.09619411826133728
+        },
+        {
+          "disease": "37",
+          "probability": 0.05648111552000046
+        },
+        {
+          "disease": "53",
+          "probability": 0.027313243597745895
+        }
+      ],
+      "risk_assessment": {
+        "risk_level": "medium",
+        "confidence": 0.85,
+        "recommendation": "Consult a healthcare professional if symptoms persist",
+        "suggested_actions": [
+          "Get plenty of rest",
+          "Stay hydrated",
+          "Monitor your symptoms"
+        ]
+      },
+      "status": "success"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "flank_pain",
+        "nausea",
+        "vomiting"
+      ],
+      "description": "Severe flank pain with vomiting"
+    },
+    "response": {
+      "predictions": [
+        {
+          "disease": "56",
+          "probability": 0.49344897270202637
+        },
+        {
+          "disease": "13",
+          "probability": 0.1252688318490982
+        },
+        {
+          "disease": "31",
+          "probability": 0.09619411826133728
+        },
+        {
+          "disease": "37",
+          "probability": 0.05648111552000046
+        },
+        {
+          "disease": "53",
+          "probability": 0.027313243597745895
+        }
+      ],
+      "risk_assessment": {
+        "risk_level": "medium",
+        "confidence": 0.85,
+        "recommendation": "Consult a healthcare professional if symptoms persist",
+        "suggested_actions": [
+          "Get plenty of rest",
+          "Stay hydrated",
+          "Monitor your symptoms"
+        ]
+      },
+      "status": "success"
+    }
+  },
+  {
+    "request": {
+      "symptoms": [
+        "chest_pain",
+        "shortness_of_breath"
+      ],
+      "description": "Chest pain and difficulty breathing"
+    },
+    "response": {
+      "predictions": [
+        {
+          "disease": "56",
+          "probability": 0.49344897270202637
+        },
+        {
+          "disease": "13",
+          "probability": 0.1252688318490982
+        },
+        {
+          "disease": "31",
+          "probability": 0.09619411826133728
+        },
+        {
+          "disease": "37",
+          "probability": 0.05648111552000046
+        },
+        {
+          "disease": "53",
+          "probability": 0.027313243597745895
+        }
+      ],
+      "risk_assessment": {
+        "risk_level": "medium",
+        "confidence": 0.85,
+        "recommendation": "Consult a healthcare professional if symptoms persist",
+        "suggested_actions": [
+          "Get plenty of rest",
+          "Stay hydrated",
+          "Monitor your symptoms"
+        ]
+      },
+      "status": "success"
+    }
+  }
+]
